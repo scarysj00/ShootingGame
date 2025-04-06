@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"S:/PolytechGM/ClassNote/ShootingGame/ShootingProject/Content/Input/IA_Move.uasset",
+				"S:/PolytechGM/ClassNote/ShootingGame/ShootingProject/Content/Input/IA_Horizontal.uasset",
+				"S:/PolytechGM/ClassNote/ShootingGame/ShootingProject/Content/Input/IMC_Player.uasset",
+				"S:/PolytechGM/ClassNote/ShootingGame/ShootingProject/Content/PlayerMap.umap",
+				"S:/PolytechGM/ClassNote/ShootingGame/ShootingProject/Content/BP_Player.uasset",
+				"S:/PolytechGM/ClassNote/ShootingGame/ShootingProject/Content/Input/IA_Vertical.uasset",
 				"S:/PolytechGM/ClassNote/ShootingProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"S:/PolytechGM/ClassNote/ShootingProject/Content/PlayerMap.umap",
 				"S:/PolytechGM/ClassNote/ShootingProject/Content/BP_ShootingGameModeBase.uasset",
